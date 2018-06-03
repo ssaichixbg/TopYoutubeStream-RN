@@ -1,0 +1,1 @@
+export const GOOGLE_CLIENT_KEY = 'AIzaSyDKiMCNtCy1gQU9p-6mK_ZlDePPJa8Q4wU';
